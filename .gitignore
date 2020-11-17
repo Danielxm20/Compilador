@@ -1,0 +1,8 @@
+*.class
+com/
+de/
+imagenes/
+org/
+Proyectos/
+ventana/
+.vscode/
